@@ -1,1 +1,1 @@
-# RaspberryPiNeoPixelClock
+# Raspberry Pi NeoPixel Clock
