@@ -16,13 +16,13 @@ second = 0
 # while forever
 while True:
   # Update seconds
-  second = ( seconds + 1 ) % 60
+  second = ( second + 1 ) % 60
   # Update minutes
 
   # Update hours
 
   # Update Ring
-  s = math.floor(t.second/(60/24))
+  s = math.floor(second/(60/24))
   pixels[s] = (10,0,0)
   time.sleep(1)
 #   # get the date time
