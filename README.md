@@ -15,9 +15,7 @@ For the Pi based clock:
 * USB Micro Power Supply - For the Raspberry Pi
 
 For the Pico based clock:
-* Pimoroni Plasma2040
-or
-* Pimoroni Plasma2040W
+* Pimoroni Plasma2040 or Pimoroni Plasma2040W
 
 For both:
 * USB C Power Supply - Needs enough ampage to drive the ring
